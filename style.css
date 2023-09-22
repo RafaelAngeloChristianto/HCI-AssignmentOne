@@ -1,0 +1,16 @@
+
+body {
+    background-image: linear-gradient(to left, black, white);
+}
+.pfp {
+    border-radius: 50%;
+}
+* {
+    font-family: "Roboto";
+}
+.image-container {
+    display: flex;
+    justify-content: center;
+    vertical-align: middle;
+    align-items: center;
+}
